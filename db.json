@@ -1,27 +1,14 @@
 {
   "data": [
-    
     {
       "title": "This is how title will look",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, rem",
       "files": [
         {
-          "filename": "1692943797605-Card.png",
+          "filename": "1692946886933-Card.png",
           "originalname": "Card.png",
           "mimetype": "image/png",
-          "url": "1692943797605-Card.png"
-        },
-        {
-          "filename": "1692943797608-the-show-intro-162872.mp3",
-          "originalname": "the-show-intro-162872.mp3",
-          "mimetype": "audio/mpeg",
-          "url": "1692943797608-the-show-intro-162872.mp3"
-        },
-        {
-          "filename": "1692943797630-15_070391170-good-looking-asian-man-glasses_preview.mp4",
-          "originalname": "15_070391170-good-looking-asian-man-glasses_preview.mp4",
-          "mimetype": "video/mp4",
-          "url": "1692943797630-15_070391170-good-looking-asian-man-glasses_preview.mp4"
+          "url": "1692946886933-Card.png"
         }
       ]
     }
